@@ -1,2 +1,2 @@
 ## Fentanyl
-A Minecraft client. 
+A general cheating project featuring Minecraft; Krunker and more. 
