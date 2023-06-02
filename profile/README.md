@@ -1,2 +1,2 @@
 ## Fentanyl
-A general cheating project featuring Minecraft; Krunker and more. 
+A general cheating project.
